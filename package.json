@@ -1,0 +1,27 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyGTL/react1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyGTL/react1/issues"
+  },
+  "homepage": "https://github.com/luckyGTL/react1#readme",
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "react": "^15.6.1",
+    "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "react-dom": "^15.6.1"
+  }
+}
